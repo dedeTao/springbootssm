@@ -35,6 +35,5 @@ public class LoginController {
         } else {
             return "没有这个人";
         }
-
     }
 }
